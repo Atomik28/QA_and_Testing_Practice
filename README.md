@@ -9,4 +9,5 @@
 # 11th of June 2026 
   No learning today unfortunately
 # 12th of june 2026
-
+  Started a manuel testing project 
+#13th of june 2026
