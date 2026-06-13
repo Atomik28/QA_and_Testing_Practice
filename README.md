@@ -11,3 +11,5 @@
 # 12th of june 2026
   Started a manuel testing project 
 #13th of june 2026
+  Testing OpenCart Application, writing Test Scenarios and Test Cases. for now using excel for all. 
+  
